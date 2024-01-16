@@ -1,0 +1,9 @@
+[submodule "Data_Analyst_Data_Visualisation_Project"]
+	path = Data_Analyst_Data_Visualisation_Project
+	url = https://github.com/ali-who/Data_Analyst_Data_Visualisation_Project.git
+[submodule "Data_Analyst_Data_Wrangle_Project"]
+	path = Data_Analyst_Data_Wrangle_Project
+	url = https://github.com/ali-who/Data_Analyst_Data_Wrangle_Project.git
+[submodule "Data_Analyst_Practical_Statistics_Project"]
+	path = Data_Analyst_Practical_Statistics_Project
+	url = https://github.com/ali-who/Data_Analyst_Practical_Statistics_Project.git
